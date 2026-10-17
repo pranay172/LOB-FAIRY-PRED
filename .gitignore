@@ -1,0 +1,23 @@
+# Competition data and training outputs
+datasets/
+checkpoints/
+
+# Generated inference artifacts (example_solution/baseline.onnx stays tracked)
+solution/*.onnx
+solution/*.onnx.data
+solution/model_meta.json
+submission.zip
+submission/
+
+# Local scratch
+rough.ipynb
+archives/
+
+# Environment and OS files
+.venv/
+__pycache__/
+.DS_Store
+
+# Starter-pack files from the organizers (not redistributed)
+utils.py
+example_solution/

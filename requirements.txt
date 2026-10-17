@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow
+tqdm
+torch
+scikit-learn
+onnx
+onnxruntime
+# EDA only
+matplotlib
+seaborn
